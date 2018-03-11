@@ -1,5 +1,6 @@
 {
   "name": "chrome-es2015-codelab",
+  "version": "0.0.1",
   "description": "ES2015 Codelab",
   "license": "Apache-2.0",
   "author": "Google",
